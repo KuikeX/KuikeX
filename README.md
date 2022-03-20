@@ -4,3 +4,4 @@
 - Furry
 - Nonbinary
 - Pansexual
+- Artist
